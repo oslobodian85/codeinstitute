@@ -440,8 +440,8 @@ body{
 
 .footer__contacts{
   display: flex;
-  align-items: space-between;
-  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .footer__contacts-text{
